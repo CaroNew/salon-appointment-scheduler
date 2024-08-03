@@ -59,3 +59,6 @@ chmod +x salon.s
 chmod +x salon.sh
 ./salon.sh
 ./salon.sh
+git remote set-url origin https://github.com/CaroNew/salon-appointment-scheduler.git
+git branch -M main
+git push -u origin main
